@@ -32,4 +32,9 @@ document.querySelector("#password1").addEventListener("focus", () => {
 })
 document.querySelector("#password1").addEventListener("blur", () => {
     d.style.backgroundColor = "";
- })
+})
+ 
+let eid=document.querySelector("#email").value
+function fun() {
+    if (eid.match(/[@.]/));
+}
