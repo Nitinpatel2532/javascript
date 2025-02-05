@@ -5,6 +5,18 @@
             "age":23,
             "contact":2561412,
             "city":"pune"
+        },
+        {
+            "name":"Bob",
+            "age":24,
+            "contact":2555412,
+            "city":"delhi"
+        },
+        {
+            "name":"adam",
+            "age":30,
+            "contact":981412,
+            "city":"bhoapl"
         }
     ]
 }
